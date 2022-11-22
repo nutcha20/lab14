@@ -1,0 +1,4 @@
+# Project exclude paths
+/DemoGRPC01-master/.gradle/
+/DemoGRPC01-master/build/
+/DemoGRPC01-master/build/classes/java/main/
